@@ -48,7 +48,7 @@ ________      _____ __________ ____  __.__________ ________    _________ _______
  |    `   \/    |    \    |   \    |  \  |    |   \/    |    \/        \/        \|   ||    |   \|    `   \
 /_______  /\____|__  /____|_  /____|__ \ |______  /\_______  /_______  /_______  /|___||______  /_______  /
         \/         \/       \/        \/        \/         \/        \/        \/             \/        \/ 
-     \033[1;92mFagun\033[0m 🐞 with \033[1;92mBugs\033[0m
+     \033[1;92mDarkboss1bd\033[0m 🐞 with \033[1;92mBugs\033[0m
     """)
 
 
@@ -59,7 +59,7 @@ def menu():
         1-) Normal Scanning
         2-) Firewall Bypass
         3-) Vulnerability Scanning
-        4-) Fagun SQA Testing Tools 
+        4-) Darkboss1bd SQA Testing Tools 
         u-) Update
         00-) Contact
         0-) Exit
