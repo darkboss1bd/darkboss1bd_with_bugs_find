@@ -1,9 +1,9 @@
-# darkboss1bd_with_bugs_find 🌐🔍
+# darkboss1bd_with_bugs_find 🔍
 
 
 darkboss1bd_with_bugs_find with Bugs is an advanced network scanning tool tailored for cybersecurity professionals and enthusiasts. Developed by Fagun, this powerful toolkit provides a comprehensive set of features and advanced scanning options for identifying vulnerabilities and security issues in networked systems.
 
-## Getting Started 🏁
+## Getting Started 
 
 To embark on an advanced network scanning expedition with darkboss1bd_with_bugs_find with Bugs, follow these precise steps:
 
